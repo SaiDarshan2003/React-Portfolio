@@ -3,9 +3,6 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview]
-
-https://youtu.be/XWCiXf1TYiE
 
 ### Pictures of Website:
 ![Screenshot 2023-05-31 170226](https://github.com/SaiDarshan2003/React-Portfolio/assets/94692595/524a0085-90e4-4bba-9302-9ab62d721818)
@@ -19,34 +16,3 @@ https://youtu.be/XWCiXf1TYiE
 ![Screenshot 2023-05-31 203807](https://github.com/SaiDarshan2003/React-Portfolio/assets/94692595/11215615-4149-491a-9331-6075ebb93aba)
 ![Screenshot 2023-05-31 203825](https://github.com/SaiDarshan2003/React-Portfolio/assets/94692595/3c96f11b-d11c-4ce9-a004-61d977df6cc4)
 ![Screenshot 2023-05-31 203846](https://github.com/SaiDarshan2003/React-Portfolio/assets/94692595/0073ee6f-098b-4403-a38d-e37164f5c274)
-
-
-### Features
-
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
-
-### Setup
-
-Get the code
-
-<pre>git clone </pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
-
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
